@@ -449,4 +449,4 @@ flowchart TD
 
 ## License
 
-This project is provided as-is for educational and portfolio purposes. Add your preferred license (e.g., MIT) here if you intend to distribute this repository publicly.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
